@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [介绍](README.md)
 * [形式逻辑](xing-shi-luo-ji.md)
 
